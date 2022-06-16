@@ -12,18 +12,18 @@ It contains only numerical input variables which are the result of a PCA transfo
 
 **Outline:**
 
-I. Understanding our data
+ I. Understanding our data
   - cheking missing values, number of transactions (Fraud vs Non-Fraud)
 
-II. Preprocessing
+ II. Preprocessing
   - Scaling input feature, managing imbalance datasets, random undersampling, splitting data
   - Testing correlation, feature selection, outlier detection and removal
 
-III. Fitting supervised machine learning model
+ III. Fitting supervised machine learning model
   - Logistic regression
   - Decision Tree Classifier
   - K Neighbouring Classifier
   
-IV. Model validation
+ IV. Model validation
   - Model accuracy, confusion matrix
   - Model selection
