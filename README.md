@@ -1,4 +1,4 @@
-# Credit Fraud Detection || Dealing with Imbalanced Datasets
+# Credit Fraud Detection || Imbalanced Datasets
 # Data preprocessing (Numpy, Pandas); Data Visualization (Matplotlib, Seaborn); Classification (sklearn); Finance; Banking
 
 Problem Description
